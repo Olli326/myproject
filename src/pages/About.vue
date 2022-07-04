@@ -1,12 +1,10 @@
 <template>
-  <div>
-    Oooops!
-  </div>
+ <div>About</div>
 </template>
 
 <script>
 export default {
-  name: "404"
+  name: "About"
 }
 </script>
 
